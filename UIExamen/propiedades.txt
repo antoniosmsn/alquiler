@@ -1,0 +1,3 @@
+codigoPropiedad=1, nombrePropiedad=Casa Manuel, valorPropiedad=1.0, direccionPropiedad=direccion, residencial=residencial, numeroCasa=11, patio=true, numeroHabitaciones=111,
+codigoPropiedad=2, nombrePropiedad=Casa Roxana, valorPropiedad=22.22, direccionPropiedad=direccion2, residencial=residencial2, numeroCasa=22, patio=false, numeroHabitaciones=222,
+codigoPropiedad=369, nombrePropiedad=Casa Goffy, valorPropiedad=123.0, direccionPropiedad=Sacramento, residencial=Hacienda sacramento, numeroCasa=13, patio=true, numeroHabitaciones=1,

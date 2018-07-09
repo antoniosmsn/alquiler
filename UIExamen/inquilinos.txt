@@ -1,0 +1,3 @@
+nombreinquilino=Manuel, apellidos=Alvarado Solano, correoElectronico=antoniosmsn@hotmail.com, direccionInquilino=Sacramento, telefono=88855136, cedula=303820601, genero=M,
+nombreinquilino=Roxana, apellidos=Gonzalez Araya, correoElectronico=roxi@gmail.com, direccionInquilino=Sacramento, telefono=89206986, cedula=303820602, genero=F,
+nombreinquilino=Goofy, apellidos=Alvarado Gonzalez, correoElectronico=goof@gotmail.com, direccionInquilino=Sacramento, telefono=22145698, cedula=123456789, genero=M,

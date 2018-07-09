@@ -1,0 +1,2 @@
+codigo=12, nombre=p1, valor=10.25, direccion=Cartago, residencial=Sacramento, numeroCasa=13, patio=true, numeroHabitaciones=3,
+codigo=100, nombre=p1, valor=10.25, direccion=Cartago, residencial=Sacramento, numeroCasa=13, patio=true, numeroHabitaciones=3,
